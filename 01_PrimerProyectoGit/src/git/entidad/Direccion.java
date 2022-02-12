@@ -4,6 +4,7 @@ public class Direccion {
 	private String tipoVIa;
 	private String nombreVia;
 	private String Cp;
+	private String Ciudad;
 	
 	public String getTipoVIa() {
 		return tipoVIa;
@@ -22,6 +23,12 @@ public class Direccion {
 	}
 	public void setCp(String cp) {
 		Cp = cp;
+	}
+	public String getCiudad() {
+		return Ciudad;
+	}
+	public void setCiudad(String ciudad) {
+		Ciudad = ciudad;
 	}
 	
 	
