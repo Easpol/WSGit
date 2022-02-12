@@ -4,7 +4,10 @@ public class Direccion {
 	private String tipoVIa;
 	private String nombreVia;
 	private String Cp;
+	private String Ciudad;
 	private String Pais;
+	
+
 	
 	public String getTipoVIa() {
 		return tipoVIa;
@@ -24,16 +27,23 @@ public class Direccion {
 	public void setCp(String cp) {
 		Cp = cp;
 	}
+
 	public String getPais() {
 		return Pais;
 	}
 	public void setPais(String pais) {
 		Pais = pais;
 	}
+	
+	public String getCiudad() {
+		return Ciudad;
+	}
+	public void setCiudad(String ciudad) {
+		Ciudad = ciudad;
+	}
 	@Override
 	public String toString() {
-		return "Direccion [tipoVIa=" + tipoVIa + ", nombreVia=" + nombreVia + ", Cp=" + Cp + ", Pais=" + Pais + "]";
+		return "Direccion [tipoVIa=" + tipoVIa + ", nombreVia=" + nombreVia + ", Cp=" + Cp + ", Pais=" + Pais
+				+ ", Ciudad=" + Ciudad + "]";
 	}
-	
-	
 }

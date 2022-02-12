@@ -1,0 +1,60 @@
+[33mcommit 644a637d997255c39fe3cff29ed070664fb23037[m[33m ([m[1;36mHEAD -> [m[1;32mdesarrollo[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 84885ae aa297c2
+Author: Raúl Moreno <raulmro@hotmail.es>
+Date:   Sat Feb 12 20:16:01 2022 +0100
+
+    Merge branch 'desarrollo_coche'
+
+[33mcommit 84885ae4dd91e86b0554368a429c3bf140bdbf20[m
+Author: Raúl Moreno <raulmro@hotmail.es>
+Date:   Fri Feb 11 00:10:14 2022 +0100
+
+    add clase dirección y referencia en persona
+
+[33mcommit aa297c2680a6010a8e3260cabf7e175d405a2edc[m[33m ([m[1;32mdesarrollo_coche[m[33m)[m
+Author: Raúl Moreno <raulmro@hotmail.es>
+Date:   Thu Feb 10 21:29:25 2022 +0100
+
+    add to String a la clase coche
+
+[33mcommit 6f0627e48705a6e29347dc35e25e06dcc1e1d648[m
+Author: Raúl Moreno <raulmro@hotmail.es>
+Date:   Thu Feb 10 21:15:09 2022 +0100
+
+    Creada persona imprimida por pantalla
+
+[33mcommit 78067e58ac3b9de08c8e72535718df6f909a45ce[m
+Author: Raúl Moreno <raulmro@hotmail.es>
+Date:   Thu Feb 10 21:06:47 2022 +0100
+
+    creada la clase coche
+
+[33mcommit 7bf2099343c8bac89ad871da58d9fd14b555277e[m
+Author: Raúl Moreno <raulmro@hotmail.es>
+Date:   Thu Feb 10 01:18:13 2022 +0100
+
+    prueba cambio de nombre
+
+[33mcommit 5992dd461fb693b5d12760ac27723fa655d9d86a[m
+Author: Easpol <raulmro@hotmail.es>
+Date:   Thu Feb 10 01:10:14 2022 +0100
+
+    creada la entidad persona
+
+[33mcommit b8d90926154c37b6949f5d4e29d185101a4351fe[m
+Author: Easpol <raulmro@hotmail.es>
+Date:   Thu Feb 10 01:05:30 2022 +0100
+
+    creo carpeta
+
+[33mcommit 505f3b6caa3ee6ac5a9c4584f14eaea48932ed3d[m
+Author: Easpol <raulmro@hotmail.es>
+Date:   Thu Feb 10 01:00:17 2022 +0100
+
+    añadi una nota
+
+[33mcommit a896feaab82a5b416a84672059e96f552c60a348[m
+Author: Easpol <raulmro@hotmail.es>
+Date:   Thu Feb 10 00:55:01 2022 +0100
+
+    Primer commit del proyecto

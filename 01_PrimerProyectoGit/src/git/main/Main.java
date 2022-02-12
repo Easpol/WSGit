@@ -12,13 +12,15 @@ public class Main {
 		p.setNombre("Steve Rogers");
 		p.setEdad (45);
 		
-		System.out.println (p);
-		
-		Direccion d = new Dirección();
-		d.setNombreVia ("De la plata");
+		Direccion d = new Direccion();
+		d.setNombreVia("trece rue del Percebe");
 		d.setTipoVIa("Calle");
-		d.setPais("Argentina");
+		d.setCiudad("Madrid");
+		d.setPais("España");
 		
+		
+		System.out.println (p);
+
 		
 	}
 
