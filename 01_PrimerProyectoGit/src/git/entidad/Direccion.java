@@ -4,6 +4,7 @@ public class Direccion {
 	private String tipoVIa;
 	private String nombreVia;
 	private String Cp;
+	private String Pais;
 	
 	public String getTipoVIa() {
 		return tipoVIa;
@@ -22,6 +23,16 @@ public class Direccion {
 	}
 	public void setCp(String cp) {
 		Cp = cp;
+	}
+	public String getPais() {
+		return Pais;
+	}
+	public void setPais(String pais) {
+		Pais = pais;
+	}
+	@Override
+	public String toString() {
+		return "Direccion [tipoVIa=" + tipoVIa + ", nombreVia=" + nombreVia + ", Cp=" + Cp + ", Pais=" + Pais + "]";
 	}
 	
 	
